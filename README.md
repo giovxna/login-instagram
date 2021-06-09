@@ -1,5 +1,7 @@
 <br />
 
+![image](img/login-insta.png)
+
 # ❤️ Sobre
 
 desafio proposto no bootcamp everis através da plataforma <a href="https://digitalinnovation.one/"> Digital Innovation One</a>
@@ -12,5 +14,3 @@ recriar página de login do Instagram o mais fiel possível do modelo original, 
 
 - HTML
 - CSS
-
-![image](img/login-insta.png)
