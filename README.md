@@ -13,4 +13,4 @@ recriar página de login do Instagram o mais fiel possível do modelo original, 
 - HTML
 - CSS
 
-<p align="center"><img src="scr/imgs/login-insta"> </p>
+![image](img/login-insta.png)
